@@ -1,10 +1,52 @@
 
 body {
-    background-color:slategrey;
+    background-color : white;
+    text-align: center;
+    color : black;
+    font-family: Helvetica, Arial, sans-serif;
+
 }
 hr {
     border-color: black;
     border-style: dotted none none;
     border-width: 5px;
+    width: 100%;
+}
+.Gpa{
+    text-decoration: underline;
+}
+
+h4{
+    display:inline-block;
+    
+}
+table{
+    margin: 0 auto 0 auto;
+}
+
+ul{
+    display:inline-block;
+    text-align: left;
+}
+
+.Project_Img {
+
     width: 50%;
+    height: 50%;
+    display:inline-block;
+    vertical-align: text-top;
+
+}
+
+.Project_Div{
+    height: 50%;
+    width: 49%;
+    display: inline-block;
+    vertical-align: text-top;
+
+}
+
+.MajorProjectsClass{
+    display: inline-block;
+    
 }
